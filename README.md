@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-badhon-sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="md-badhon-sheikh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-badhon-sheikh" alt="md-badhon-sheikh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/badhon sheikh" target="blank"><img src="https://img.shields.io/twitter/follow/badhon sheikh?logo=twitter&style=for-the-badge" alt="badhon sheikh" /></a> </p>
 
