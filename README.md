@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React js and Laravel**
 
-- 👨‍💻 All of my projects are available at [https://badhonweb.netlify.app/](https://badhonweb.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://badhonweb.netlify.app/](https://badhonweb.netlify.app/) 
 
 - 💬 Ask me about **MEARN, Laravel**
 
