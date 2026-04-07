@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-badhon-sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="md-badhon-sheikh" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/badhon sheikh" target="blank"><img src="https://img.shields.io/twitter/follow/badhon sheikh?logo=twitter&style=for-the-badge" alt="badhon sheikh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/badhon sheikh" target="blank"><img src="https://img.shields.io/twitter/follow/badhon sheikh?logo=twitter&style=for-the-badge" alt="badhon sheikh" /></a> </p> 
 
 - 🌱 I’m currently learning **React js and Laravel**
 
